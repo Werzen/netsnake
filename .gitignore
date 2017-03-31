@@ -1,0 +1,15 @@
+#IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+/out/
+/lib/
+/target/
+.idea_modules/
+
+#JAVA
+*.class
+*.jar
+*.war
+*.ear
