@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="063c5c37-3032-43fc-babc-48442fa9e792" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/netty_all_4_1_9_Final_sources.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/netty_all_4_1_9_Final_javadoc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/netty_example_4_1_9_Final_sources.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/netsnake.iml" afterPath="$PROJECT_DIR$/netsnake.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -273,10 +278,10 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/netty-example-4.1.9.Final-sources.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/netty-example-4.1.9.Final.jar!/" />
     <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -741,12 +746,12 @@
       <workItem from="1490798115276" duration="579000" />
       <workItem from="1490854642659" duration="24095000" />
       <workItem from="1490941067638" duration="14312000" />
-      <workItem from="1490976775967" duration="543000" />
+      <workItem from="1490976775967" duration="842000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="114914000" />
+    <option name="totallyTimeSpent" value="115213000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1255,7 +1260,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>netty-example-4.1.9.Final-sources</last-edited>
+          <last-edited>netty-all-4.1.9.Final-sources</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
