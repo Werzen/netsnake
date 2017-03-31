@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Net Snake</title>
+    <link rel="stylesheet" href="css/style.css" type="text/css" >
+    <script src="js/Connect.js"></script>
+</head>
+<body>
+<div class="root">
+    <fieldset>
+        <h1>Сетевая змейка</h1>
+        <canvas id="screen" width="600" height="600">Ваш браузер не поддерживает canvas</canvas><br>
+        <label for="server">Сервер:</label>
+        <input id="server" type="text" onchange="check(this.value);" placeholder ="server" required>:
+        <input id="port" type="text" onchange="check(this.value);" placeholder="port" required>
+        <input type="submit" id="connect" value="Подключить" disabled = "true" onclick="connect()">
+        <input type="button" id="ready" value="Готов" disabled = "true" onclick="sendReady()">
+        <input type="button" id="disconnect" value="Отключить" disabled = "true" onclick="sendDisconnect()"><br>
+        <h2>Управление: w - вверх, s - вниз, a - влево, d - вправо</h2>
+    </fieldset>
+</div>
+
+
+</body>
+</html>
