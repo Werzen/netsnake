@@ -1,0 +1,22 @@
+body {
+    width: 605px;
+}
+canvas{
+    border: 1px dashed black;
+}
+h1{
+    font: 20pt Arial ;
+    text-align: center;
+}
+h2{
+    font: 10pt Arial ;
+}
+input[id = server]{
+    width: 130px;
+}
+input[id = port]{
+    width: 40px;
+}
+fieldset{
+    width: 605px;
+}
